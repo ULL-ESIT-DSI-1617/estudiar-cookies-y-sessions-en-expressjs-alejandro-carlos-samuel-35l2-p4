@@ -19,6 +19,8 @@
     * gh-pages
     * Pandoc
 6. Express
+7. Cookies
+8. Sessions
 
 # Miembros del equipo
 

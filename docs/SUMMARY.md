@@ -19,3 +19,5 @@
 
 * [Capítulo 6](./capitulo_6/README.md)
     * [ExpressJS](./capitulo_6/contenido.md)
+    * [Cookies](./capitulo_7/contenido.md)
+    * [Sessions](./capitulo_8/contenido.md)
