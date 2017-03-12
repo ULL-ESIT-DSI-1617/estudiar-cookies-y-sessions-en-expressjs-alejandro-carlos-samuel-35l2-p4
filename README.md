@@ -32,7 +32,7 @@ https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practic
 
 ## GitBook:
 
-* TODO
+https://cosaca.gitbooks.io/prct04-estudiar-cookies-sessions/content/
 
 ## Despliegue en [iaas.ull.es](iaas.ull.es):
 
